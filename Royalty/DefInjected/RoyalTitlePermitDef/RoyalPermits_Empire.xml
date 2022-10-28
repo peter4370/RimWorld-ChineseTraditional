@@ -47,9 +47,9 @@
   <FoodDrop.description>呼叫一份包含20x包裝生存食品的空投。</FoodDrop.description>
   
   <!-- EN: glitter med drop -->
-  <GlitterMedDrop.label>空投-高科技藥品</GlitterMedDrop.label>
+  <GlitterMedDrop.label>空投-閃耀世界藥品</GlitterMedDrop.label>
   <!-- EN: Call for a drop of 5 glitterworld medicine. -->
-  <GlitterMedDrop.description>呼叫一份包含5x高科技藥品的空投。</GlitterMedDrop.description>
+  <GlitterMedDrop.description>呼叫一份包含5x閃耀世界藥品的空投。</GlitterMedDrop.description>
   
   <!-- EN: silver drop -->
   <SilverDrop.label>空投-白銀</SilverDrop.label>
