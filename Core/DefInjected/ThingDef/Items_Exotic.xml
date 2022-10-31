@@ -42,9 +42,9 @@
   <TechprofSubpersonaCore.comps.CompUsable.useLabel>使用{0_label}</TechprofSubpersonaCore.comps.CompUsable.useLabel>
   
   <!-- EN: thrumbo horn -->
-  <ThrumboHorn.label>獨角獸角</ThrumboHorn.label>
+  <ThrumboHorn.label>爽波角</ThrumboHorn.label>
   <!-- EN: A thrumbo's horn. It's razor-sharp, rock-hard, and priceless in most markets. This is a true trophy, as well as a deadly melee weapon. -->
-  <ThrumboHorn.description>獨角獸的角。如刀刃般鋒利、岩石般堅硬，在市場中是無價之寶。這是一種真正的戰利品，也是一種致命的近戰武器。</ThrumboHorn.description>
+  <ThrumboHorn.description>爽波的角。如刀刃般鋒利、岩石般堅硬，在市場中是無價之寶。這是一種真正的戰利品，也是一種致命的近戰武器。</ThrumboHorn.description>
   <!-- EN: point -->
   <ThrumboHorn.tools.point.label>尖端</ThrumboHorn.tools.point.label>
   <!-- EN: base -->

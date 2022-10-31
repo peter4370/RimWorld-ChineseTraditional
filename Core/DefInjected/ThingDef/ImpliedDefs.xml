@@ -815,10 +815,10 @@
   <!-- EN: 松鼠的屍體。 -->
   <Corpse_Squirrel.description>松鼠的屍體。</Corpse_Squirrel.description>
   
-  <!-- EN: 獨角獸屍體 -->
-  <Corpse_Thrumbo.label>獨角獸屍體</Corpse_Thrumbo.label>
-  <!-- EN: 獨角獸的屍體。 -->
-  <Corpse_Thrumbo.description>獨角獸的屍體。</Corpse_Thrumbo.description>
+  <!-- EN: 爽波屍體 -->
+  <Corpse_Thrumbo.label>爽波屍體</Corpse_Thrumbo.label>
+  <!-- EN: 爽波的屍體。 -->
+  <Corpse_Thrumbo.description>爽波的屍體。</Corpse_Thrumbo.description>
   
   <!-- EN: 烏龜屍體 -->
   <Corpse_Tortoise.label>烏龜屍體</Corpse_Tortoise.label>
@@ -1468,8 +1468,8 @@
   <!-- EN: 屠宰好的生肉。可以烹調成料理或直接生吃。 -->
   <Meat_Squirrel.description>屠宰好的生肉，可以烹調成料理或是生吃。</Meat_Squirrel.description>
   
-  <!-- EN: 獨角獸肉 -->
-  <Meat_Thrumbo.label>獨角獸肉</Meat_Thrumbo.label>
+  <!-- EN: 爽波肉 -->
+  <Meat_Thrumbo.label>爽波肉</Meat_Thrumbo.label>
   <!-- EN: 屠宰好的生肉。可以烹調成料理或直接生吃。 -->
   <Meat_Thrumbo.description>屠宰好的生肉，可以烹調成料理或是生吃。</Meat_Thrumbo.description>
   

@@ -88,7 +88,7 @@
   <AngryStudent88.titleShort>學生</AngryStudent88.titleShort>
   
   <!-- EN: Born on a medieval farm, [PAWN_nameDef] was tasked with caring for domestic animals. [PAWN_pronoun] grew to love them.\n\nWith time, [PAWN_pronoun] learned to tame wild animals. [PAWN_pronoun] dreamed of one day meeting a thrumbo and taming it. -->
-  <AnimalCaretaker20.baseDesc>出生於一座中世紀的農場，[PAWN_nameDef]的工作是照顧家畜們，而[PAWN_pronoun]也逐漸喜歡上動物們。\n\n漸漸的，[PAWN_pronoun]學會馴服野生動物，[PAWN_pronoun]夢想有一天能夠遇見一支獨角獸並且馴服牠。</AnimalCaretaker20.baseDesc>
+  <AnimalCaretaker20.baseDesc>出生於一座中世紀的農場，[PAWN_nameDef]的工作是照顧家畜們，而[PAWN_pronoun]也逐漸喜歡上動物們。\n\n漸漸的，[PAWN_pronoun]學會馴服野生動物，[PAWN_pronoun]夢想有一天能夠遇見一支爽波並且馴服牠。</AnimalCaretaker20.baseDesc>
   <!-- EN: animal caretaker -->
   <AnimalCaretaker20.title>動物照顧者</AnimalCaretaker20.title>
   <!-- EN: caretaker -->

@@ -42,26 +42,26 @@
   <Cobra.lifeStages.1.labelPlural>眼鏡蛇</Cobra.lifeStages.1.labelPlural>
   
   <!-- EN: thrumbo -->
-  <Thrumbo.label>獨角獸</Thrumbo.label>
-  <Thrumbo.labelFemale>母獨角獸</Thrumbo.labelFemale>
-  <Thrumbo.labelFemalePlural>母獨角獸</Thrumbo.labelFemalePlural>
-  <Thrumbo.labelMale>公獨角獸</Thrumbo.labelMale>
-  <Thrumbo.labelMalePlural>公獨角獸</Thrumbo.labelMalePlural>
-  <Thrumbo.labelPlural>獨角獸</Thrumbo.labelPlural>
+  <Thrumbo.label>爽波</Thrumbo.label>
+  <Thrumbo.labelFemale>母爽波</Thrumbo.labelFemale>
+  <Thrumbo.labelFemalePlural>母爽波</Thrumbo.labelFemalePlural>
+  <Thrumbo.labelMale>公爽波</Thrumbo.labelMale>
+  <Thrumbo.labelMalePlural>公爽波</Thrumbo.labelMalePlural>
+  <Thrumbo.labelPlural>爽波</Thrumbo.labelPlural>
   <!-- EN: thrumbo calf -->
-  <Thrumbo.lifeStages.thrumbo_calf.label>獨角獸寶寶</Thrumbo.lifeStages.thrumbo_calf.label>
-  <Thrumbo.lifeStages.thrumbo_calf.labelFemale>母獨角獸寶寶</Thrumbo.lifeStages.thrumbo_calf.labelFemale>
-  <Thrumbo.lifeStages.thrumbo_calf.labelFemalePlural>母獨角獸寶寶</Thrumbo.lifeStages.thrumbo_calf.labelFemalePlural>
-  <Thrumbo.lifeStages.thrumbo_calf.labelMale>公獨角獸寶寶</Thrumbo.lifeStages.thrumbo_calf.labelMale>
-  <Thrumbo.lifeStages.thrumbo_calf.labelMalePlural>公獨角獸寶寶</Thrumbo.lifeStages.thrumbo_calf.labelMalePlural>
+  <Thrumbo.lifeStages.thrumbo_calf.label>爽波寶寶</Thrumbo.lifeStages.thrumbo_calf.label>
+  <Thrumbo.lifeStages.thrumbo_calf.labelFemale>母爽波寶寶</Thrumbo.lifeStages.thrumbo_calf.labelFemale>
+  <Thrumbo.lifeStages.thrumbo_calf.labelFemalePlural>母爽波寶寶</Thrumbo.lifeStages.thrumbo_calf.labelFemalePlural>
+  <Thrumbo.lifeStages.thrumbo_calf.labelMale>公爽波寶寶</Thrumbo.lifeStages.thrumbo_calf.labelMale>
+  <Thrumbo.lifeStages.thrumbo_calf.labelMalePlural>公爽波寶寶</Thrumbo.lifeStages.thrumbo_calf.labelMalePlural>
   <!-- EN: thrumbo calves -->
-  <Thrumbo.lifeStages.thrumbo_calf.labelPlural>獨角獸寶寶</Thrumbo.lifeStages.thrumbo_calf.labelPlural>
-  <Thrumbo.lifeStages.1.label>獨角獸</Thrumbo.lifeStages.1.label>
-  <Thrumbo.lifeStages.1.labelFemale>母獨角獸</Thrumbo.lifeStages.1.labelFemale>
-  <Thrumbo.lifeStages.1.labelFemalePlural>母獨角獸</Thrumbo.lifeStages.1.labelFemalePlural>
-  <Thrumbo.lifeStages.1.labelMale>公獨角獸</Thrumbo.lifeStages.1.labelMale>
-  <Thrumbo.lifeStages.1.labelMalePlural>公獨角獸</Thrumbo.lifeStages.1.labelMalePlural>
-  <Thrumbo.lifeStages.1.labelPlural>獨角獸</Thrumbo.lifeStages.1.labelPlural>
+  <Thrumbo.lifeStages.thrumbo_calf.labelPlural>爽波寶寶</Thrumbo.lifeStages.thrumbo_calf.labelPlural>
+  <Thrumbo.lifeStages.1.label>爽波</Thrumbo.lifeStages.1.label>
+  <Thrumbo.lifeStages.1.labelFemale>母爽波</Thrumbo.lifeStages.1.labelFemale>
+  <Thrumbo.lifeStages.1.labelFemalePlural>母爽波</Thrumbo.lifeStages.1.labelFemalePlural>
+  <Thrumbo.lifeStages.1.labelMale>公爽波</Thrumbo.lifeStages.1.labelMale>
+  <Thrumbo.lifeStages.1.labelMalePlural>公爽波</Thrumbo.lifeStages.1.labelMalePlural>
+  <Thrumbo.lifeStages.1.labelPlural>爽波</Thrumbo.lifeStages.1.labelPlural>
   
   <!-- EN: tortoise -->
   <Tortoise.label>烏龜</Tortoise.label>
