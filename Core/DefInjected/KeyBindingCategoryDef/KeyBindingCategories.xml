@@ -14,7 +14,7 @@
   <!-- EN: developer tools -->
   <Development.label>開發工具</Development.label>
   <!-- EN: Controls for developers and modders. Active in development mode only. -->
-  <Development.description>遊戲與模組開發者使用的控制選項，僅可在開發者模式下使用。</Development.description>
+  <Development.description>遊戲與 mod 開發者使用的控制選項，僅可在開發者模式下使用。</Development.description>
   
   <!-- EN: in-game global -->
   <Game.label>遊戲全域設定</Game.label>
